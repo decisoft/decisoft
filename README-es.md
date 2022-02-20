@@ -1,12 +1,10 @@
-> Versión en español
-
-
 <h3 align="center">
 ¡Hola! 👋 Soy Mario
 </h3>
 <h3 align="center">
 Estoy aquí para contribuir a increíbles proyectos de software libre y código abierto 🗺, así como para publicar el material con el que trabajo 💻.
 </h2> 
+
 He sido autodidacta desde pequeño y los proyectos de software libre y código abierto me trajeron hasta aquí. Mientras aprendo diferentes lenguajes, he contribuido en la traducción y en el soporte de programas como [![Firefox](https://img.shields.io/badge/-Firefox-f5541f?style=flat&logo=firefox&logoColor=white)](https://support.mozilla.org/es/user/decisoft), LibreOffice o WordPress. 
 
 ## 🔭 Estoy trabajando en
