@@ -6,7 +6,7 @@
 Estoy aquí para contribuir a increíbles proyectos de software libre y código abierto 🗺, así como para publicar el material con el que trabajo 💻.
 </h2> 
 
-> *[English version below](#english-version)*
+> *[English version here](https://github.com/decisoft/decisoft/blob/main/README-en.md)*
 
 He sido autodidacta desde muy pequeño y los proyectos de software libre y código abierto me trajeron hasta aquí. Mientras aprendo diferentes lenguajes, he contribuido en la traducción y en el soporte de programas como [![Firefox](https://img.shields.io/badge/-Firefox-f5541f?style=flat&logo=firefox&logoColor=white)](https://support.mozilla.org/es/user/decisoft), LibreOffice o WordPress. 
 
