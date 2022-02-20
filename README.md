@@ -3,10 +3,12 @@ Hi there! 👋 I'm Mario
 </h3>
 <h3 align="center">
 I'm here to contribute to amazing free and open source projects 🗺, as well as publish the material I work with 💻.
-</h2> 
+</h2>
+
 I have been self-taught since I was very young, and free and open source projects brought me here. While learning different languages and skills, I have contributed to the translation and support of programs such as [![Firefox](https://img.shields.io/badge/-Firefox-f5541f?style=flat&logo=firefox&logoColor=white)](https://support.mozilla.org/es/user/decisoft), LibreOffice or WordPress.
 
-*[Versión en español aquí](https://github.com/decisoft/decisoft/blob/main/README-es.md)*
+
+> *[Versión en español aquí](https://github.com/decisoft/decisoft/blob/main/README-es.md)*
 
 ## 🔭 I'm currently working on
 
