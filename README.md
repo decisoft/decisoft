@@ -25,9 +25,9 @@ I have been self-taught since I was very young, and free and open source project
 
 ## 🤔 What I use
 
-- 💻 [Fedora Linux 35](https://getfedora.org/)
+- 💻 [Fedora Linux 36](https://getfedora.org/)
 - 🖥️ [elementary OS 6](https://elementary.io/)
-- 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/) with [DietPi](https://dietpi.com/)
+- 🎛 [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/) with [Raspberry Pi OS (64-bit)](https://www.raspberrypi.com/software/operating-systems/)
 - 📱 [Android 11](https://www.android.com/)
 - 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - 🗒️ [Typora](https://typora.io/), [VSCodium](https://vscodium.com/) y [Code](https://github.com/elementary/code#readme)
